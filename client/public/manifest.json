@@ -1,0 +1,8 @@
+{
+  "short_name": "Agenda",
+  "name": "Agenda App",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#FFCA88",
+  "background_color": "#444444"
+}

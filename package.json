@@ -1,0 +1,20 @@
+{
+  "name": "i-event",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com/devinehowest/wad-opdracht-2019-kanzilouagie.git",
+  "author": "Kanzi Louagie <kanzi.louagie@student.howest.be>",
+  "license": "MIT",
+  "scripts": {
+    "start": "cd server/ && yarn && yarn start",
+    "build": "cd client/ && yarn && yarn build"
+  },
+  "cacheDirectories": [
+    "client/node_modules",
+    "server/node_modules"
+  ],
+  "devDependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.5.5"
+  }
+}
