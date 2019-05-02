@@ -6,8 +6,8 @@
   "author": "Kanzi Louagie <kanzi.louagie@student.howest.be>",
   "license": "MIT",
   "scripts": {
-    "start": "cd server/ && yarn && yarn start",
-    "build": "cd client/ && yarn && yarn build"
+    "build": "cd server/ && yarn && yarn start",
+    "start": "cd client/ && yarn && yarn build"
   },
   "cacheDirectories": [
     "client/node_modules",
