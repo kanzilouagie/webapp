@@ -11,7 +11,7 @@
     "dotenv": "^7.0.0",
     "eslint": "^5.15.3",
     "eslint-config-devine": "^2.1.1",
-    "express": "^4.16.4"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "nodemon": "^1.18.10"
