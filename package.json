@@ -14,7 +14,7 @@
     "server/node_modules"
   ],
   "devDependencies": {
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.5.5"
   }
 }
